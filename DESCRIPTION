@@ -1,0 +1,13 @@
+Package: HW2
+Title: This is the package for HW2 advanced R
+Version: 0.0.0.9000
+Authors@R: 
+    person("Molin", "Yue", , "moy6@pitt.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package is for homework.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    rlang
